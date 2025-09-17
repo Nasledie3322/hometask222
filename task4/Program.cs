@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+Country uzbekistan = new Country("Узбекистан", "Ташкент", 30000000, "Yзбекский");
+uzbekistan.PrintInfo();
